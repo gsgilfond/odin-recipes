@@ -1,0 +1,11 @@
+div {
+    font-family: "Times New Roman", sans-serif;
+    color: black;
+    text-align: left;
+    background-color: rgb(176, 165, 239);
+}
+
+img {
+    height: auto;
+    width: 300px;
+}
